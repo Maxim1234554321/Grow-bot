@@ -1,0 +1,69 @@
+[
+  {
+    "shop": "GEAR STOCK",
+    "items": [
+      {
+        "name": "Cleaning Spray",
+        "amount": 3
+      },
+      {
+        "name": "Trowel",
+        "amount": 1
+      },
+      {
+        "name": "Watering Can",
+        "amount": 2
+      },
+      {
+        "name": "Recall Wrench",
+        "amount": 1
+      },
+      {
+        "name": "Favorite Tool",
+        "amount": 1
+      },
+      {
+        "name": "Harvest Tool",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "shop": "EGG STOCK",
+    "items": [
+      {
+        "name": "Common Egg",
+        "amount": 1
+      },
+      {
+        "name": "Common Egg",
+        "amount": 1
+      },
+      {
+        "name": "Common Egg",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "shop": "SEEDS STOCK",
+    "items": [
+      {
+        "name": "Carrot",
+        "amount": 23
+      },
+      {
+        "name": "Blueberry",
+        "amount": 3
+      },
+      {
+        "name": "Tomato",
+        "amount": 1
+      },
+      {
+        "name": "Strawberry",
+        "amount": 4
+      }
+    ]
+  }
+]
